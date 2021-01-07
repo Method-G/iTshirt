@@ -66,3 +66,15 @@ git add README.txt
 git commit -m "new job in oct floder"
 
 git push origin master
+
+gangsim@GSGANG-2SUMDATA MINGW64 /d/GitTest/iTshirt-oct (master)
+$ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 661 bytes | 661.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Method-G/iTshirt.git
+   c20a4df..de45262  master -> master
