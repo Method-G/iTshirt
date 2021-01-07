@@ -34,3 +34,9 @@ Date:   Thu Jan 7 16:38:53 2021 +0900
 
     사이트 설명 추가
 
+git checkout 227230d
+
+git add README.txt
+
+git commit -m "Checkout이전까지저장"
+
